@@ -1,6 +1,6 @@
 # A docker-compose must always start by the version tag.
 # We use "3" because it's the last version at this time.
-version: "3"
+version: "3.8"
 
 # You should know that docker-composes works with services.
 # 1 service = 1 container.

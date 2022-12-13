@@ -1,7 +1,5 @@
 import os
 
-from flask import Flask
-
 import urllib.request
 
 fp = urllib.request.urlopen("http://localhost:1234/")
